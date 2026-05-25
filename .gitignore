@@ -1,0 +1,15 @@
+env/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+app.log
+shipper.*.log
+monitoring-agent/agent_state.json
+monitoring-agent/buffered_logs.jsonl
+monitoring-agent/*.spec
